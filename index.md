@@ -11,7 +11,9 @@
 console.log("New Notification");
 ```
 
-
+- [ ] Turn to GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
